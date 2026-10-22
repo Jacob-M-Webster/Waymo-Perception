@@ -1,2 +1,2 @@
-# GNN-vs-LSTM-For-Autonomous-Driving
+# Waymo Perception
 Machine Learning Systems (CSCE 585)
